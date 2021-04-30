@@ -1,4 +1,4 @@
-# Basics of how to Launch instance in EC2 and running jenkins
+# Basics of how to Launch instance in EC2, run and update jenkins
  
 - Select free tier and `click Next: configure instance details`
 - Check instance details and `click Next: Add Storage`
