@@ -1,0 +1,23 @@
+
+Learn git commands
+git config
+git init
+git clone
+git add
+git commit
+git push
+git status
+git log
+
+Linux commands
+cd
+ls
+pwd
+cd ..
+mkdir
+touch
+nano
+vim
+vi
+la-a
+rm
