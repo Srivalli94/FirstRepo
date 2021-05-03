@@ -1,4 +1,4 @@
-## Installation of K8S on AWS using KOPS:
+## Create K8S cluster on AWS using KOPS:
 
 ### We need a domain name which can be bought from `Godaddy`
 - Domains > search > pick a domain > checkout
