@@ -1,4 +1,0 @@
-Learn Linux commands
-ls
-pwd
-mkdir
